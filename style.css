@@ -28,6 +28,11 @@ header{
     overflow: hidden!important;
 }
 
+audio{
+    position: absolute;
+    width: 20px;
+}
+
 .img-logo{
     padding: 5px;
     border-radius: 10px;
